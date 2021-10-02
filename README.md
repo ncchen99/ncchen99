@@ -11,10 +11,10 @@
 
 
 <a href="https://github.com/ncchen99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=material-palenight&show_icons=true&border_radius=10%" style="margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&show_icons=true&border_radius=10%" style="margin-bottom: 20px;"/>
 </a>
 <a href="https://github.com/ncchen99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncchen99&theme=material-palenight&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncchen99&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 </br>
 
@@ -23,11 +23,11 @@
 <div style="margin-top:10px;">
 
 <a href="https://github.com/ncchen99/2048">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=2048&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=2048&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
 
 <a href="https://github.com/ncchen99/lineBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
 </div>
 <br>
