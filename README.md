@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 [![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me.jpg "Header")](https://some-url.dev/)
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -6,8 +5,8 @@
 尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋
 想認識偶可以加偶的 <a href="#" class="fa fa-facebook"></a>
 		
-		<a href="#" class="fa fa-youtube"></a>
-		<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-youtube"></a>
+<a href="#" class="fa fa-instagram"></a>
 
 <a href="https://github.com/ncchen99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=material-palenight&show_icons=true&border_radius=10%" style="margin-bottom: 20px;"/>
