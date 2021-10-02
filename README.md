@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&show_icons=true&border_radius=10%" style="margin-bottom: 20px;"/>
 </a>
 <a href="https://github.com/ncchen99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncchen99&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncchen99&theme=buefy&border_radius=10%&langs_count=3&line_height=5" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 </br>
 
@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/ncchen99/lineBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%&line_height=5" style="max-width: 100%;margin-bottom: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
 </div>
 <br>
