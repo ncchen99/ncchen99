@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/ncchen99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&show_icons=true&border_radius=10%&line_height=28" style="margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&show_icons=true&border_radius=10%&line_height=26" style="margin-bottom: 20px;"/>
 </a>
 <a href="https://github.com/ncchen99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncchen99&theme=buefy&border_radius=10%&langs_count=3" style="max-width: 100%;margin-bottom: 20px;"/>
