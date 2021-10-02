@@ -1,97 +1,97 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-		<style>
-			.fa {  
-			  width: 25px;
-			  padding: 20px;
-			  font-size: 25px;
-			  text-align: center;
-			  text-decoration: none;
-			  margin: 5px 2px;
-			  color: white;
-			  border-radius: 50%; 
-			}
+<style>
+.fa {  
+  width: 25px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: white;
+  border-radius: 50%; 
+}
 
-			.fa:hover {
-				opacity: 0.7;
-			}
+.fa:hover {
+	opacity: 0.7;
+}
 
-			.fa-facebook {
-			  background: #3B5998;
-			}
+.fa-facebook {
+  background: #3B5998;
+}
 
-			.fa-twitter {
-			  background: #55ACEE;
-			}
+.fa-twitter {
+  background: #55ACEE;
+}
 
-			.fa-google {
-			  background: #dd4b39;
-			}
+.fa-google {
+  background: #dd4b39;
+}
 
-			.fa-linkedin {
-			  background: #007bb5;
-			}
+.fa-linkedin {
+  background: #007bb5;
+}
 
-			.fa-youtube {
-			  background: #bb0000;
-			}
+.fa-youtube {
+  background: #bb0000;
+}
 
-			.fa-instagram {
-			  background: #8a3ab9;
-			}
+.fa-instagram {
+  background: #8a3ab9;
+}
 
-			.fa-whatsapp {
-			  background: #4FCE5D;
-			}
+.fa-whatsapp {
+  background: #4FCE5D;
+}
 
-			.fa-pinterest {
-			  background: #cb2027;
-			}
+.fa-pinterest {
+  background: #cb2027;
+}
 
-			.fa-snapchat-ghost {
-			  background: #fffc00;  
-			  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-			}
+.fa-snapchat-ghost {
+  background: #fffc00;  
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
 
-			.fa-skype {
-			  background: #00aff0;
-			}
+.fa-skype {
+  background: #00aff0;
+}
 
-			.fa-github {
-			  background: #000000;
-			}
+.fa-github {
+  background: #000000;
+}
 
-			.fa-dribbble {
-			  background: #ea4c89;
-			}
+.fa-dribbble {
+  background: #ea4c89;
+}
 
-			.fa-vimeo {
-			  background: #45bbff;
-			}
+.fa-vimeo {
+  background: #45bbff;
+}
 
-			.fa-foursquare {
-			  background: #45bbff;
-			}
+.fa-foursquare {
+  background: #45bbff;
+}
 
-			.fa-stumbleupon {
-			  background: #eb4924;
-			}
+.fa-stumbleupon {
+  background: #eb4924;
+}
 
-			.fa-flickr {
-			  background: #f40083;
-			}
+.fa-flickr {
+  background: #f40083;
+}
 
-			.fa-yahoo {
-			  background: #430297;
-			}
+.fa-yahoo {
+  background: #430297;
+}
 
-			.fa-reddit {
-			  background: #ff5700;
-			}
+.fa-reddit {
+  background: #ff5700;
+}
 
-			.fa-rss {
-			  background: #ff6600;
-			}
-			</style>
+.fa-rss {
+  background: #ff6600;
+}
+</style>
 
 [![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me.jpg "Header")](https://some-url.dev/)
 
