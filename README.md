@@ -20,6 +20,7 @@
 
 ## 偶ㄉrepo🚀
 
+<div style="margin-top:20px">
 <a href="https://github.com/ncchen99/2048">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=2048&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
@@ -27,6 +28,7 @@
 <a href="https://github.com/ncchen99/lineBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
+</div>
 <br>
 
 <a href="https://github.com/ncchen99/bulletin">
