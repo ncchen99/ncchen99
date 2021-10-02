@@ -2,9 +2,9 @@
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋
+尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋 <br>
 偶的FB [念誠](https://www.facebook.com/WHCSCKids/)
-   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)
+<br>   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)
 
 		
 
