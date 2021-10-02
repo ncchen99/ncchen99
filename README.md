@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/apitop-langs/?username=ncchen99&theme=material-palenight" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncchen99)](https://github.com/anuraghazra/github-readme-stats)
