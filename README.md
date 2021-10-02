@@ -25,11 +25,10 @@
 <a href="https://github.com/ncchen99/2048">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=2048&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
-<div style="margin-left:10px;">
+
 <a href="https://github.com/ncchen99/lineBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
-</div>
 </div>
 <br>
 
