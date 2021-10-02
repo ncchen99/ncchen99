@@ -3,7 +3,7 @@
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋
-想認識偶可以加偶的 <a href="#" class="fa fa-facebook"></a>
+想認識偶可以加偶的 @fa-facebook-square
 		
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
