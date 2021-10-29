@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3. "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://some-url.dev/)
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
