@@ -1,10 +1,11 @@
-[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://some-url.dev/)
+ [![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://some-url.dev/)
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋 <br>
 偶的FB [念誠](https://www.facebook.com/WHCSCKids/)
 <br>   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)
+偶ㄉ homie @Vincent550102
 
 		
 
