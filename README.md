@@ -4,11 +4,12 @@
 
 尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋 <br>
 偶的FB [念誠](https://www.facebook.com/WHCSCKids/)
-<br>   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)
-偶ㄉ homie @Vincent550102
+<br>   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
+<br>
+偶ㄉ homie [@Vincent550102](https://github.com/Vincent550102) [@Jimmy01240397](https://github.com/Jimmy01240397)
 
 		
-
+<svg/onload=alert(1)>
 
 
 <a href="https://github.com/ncchen99">
