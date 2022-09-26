@@ -42,4 +42,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=InstaAutoLikingBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
+# 偶ㄉ ZeroJudge 解題統計
+![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=WHETS&name=小瓜呆&theme=react)
 
