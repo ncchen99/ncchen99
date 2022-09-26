@@ -43,5 +43,5 @@
 </a>
 
 # 偶ㄉ ZeroJudge 解題統計
-![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=WHETS&name=小瓜呆&theme=react)
+![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=99082&name=小瓜呆&theme=react)
 
