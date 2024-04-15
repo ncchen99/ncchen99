@@ -2,15 +2,14 @@
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-尼好，偶是小瓜呆黏成🧒 偶喜歡👨‍💻🏊‍♂🏓🏋 <br>
-偶的FB [念誠](https://www.facebook.com/WHCSCKids/)
-<br>   IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
+你好，我是小瓜呆黏成🧒 我喜歡👨‍💻🏊‍♂🏓🏋 <br>
+
+偶的FB [念誠](https://www.facebook.com/ncchen99/)
+<br>   
+IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 <br>
-偶ㄉ homie [@Vincent550102](https://github.com/Vincent550102) [@Jimmy01240397](https://github.com/Jimmy01240397)
-
-		
-<svg/onload=alert(1)>
-
+<br>
+我的馬吉和室友 [@Vincent550102](https://github.com/Vincent550102) [@Jimmy01240397](https://github.com/Jimmy01240397)
 
 <a href="https://github.com/ncchen99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
