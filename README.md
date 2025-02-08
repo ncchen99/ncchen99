@@ -1,4 +1,4 @@
- [![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://some-url.dev/)
 
 # 嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -9,7 +9,7 @@
 IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 <br>
 <br>
-我的馬吉和室友 [@Vincent550102](https://github.com/Vincent550102) [@Jimmy01240397](https://github.com/Jimmy01240397)
+我的馬吉和室友 [@Vincent550102](https://github.com/Vincent550102)
 
 <a href="https://github.com/ncchen99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&include_all_commits=true&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
@@ -23,22 +23,22 @@ IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 
 <div style="margin-top:10px;">
 
-<a href="https://github.com/ncchen99/2048">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=2048&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
+<a href="https://github.com/ncchen99/ZHENAI-Life">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=ZHENAI-Life&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
 
-<a href="https://github.com/ncchen99/lineBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=lineBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
+<a href="https://github.com/ncchen99/Auto-Runner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Auto-Runner&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 10px;"/>
 </a>
 </div>
 <br>
 
-<a href="https://github.com/ncchen99/bulletin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=bulletin&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+<a href="https://github.com/Note-Mart/Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Note-Mart&repo=Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
-<a href="https://github.com/ncchen99/InstaAutoLikingBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=InstaAutoLikingBot&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+<a href="https://github.com/Eros-Adult-Beauty/Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eros-Adult-Beauty&repo=Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
 <!-- ## 偶ㄉ ZeroJudge 解題統計🙂
