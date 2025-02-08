@@ -9,7 +9,7 @@
 IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 <br>
 <br>
-我的馬吉和室友 [@Vincent550102](https://github.com/Vincent550102)
+我的馬吉 [@Vincent550102](https://github.com/Vincent550102)
 
 <a href="https://github.com/ncchen99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncchen99&theme=buefy&include_all_commits=true&show_icons=true&border_radius=10%&line_height=27" style="margin-bottom: 20px;"/>
@@ -34,11 +34,11 @@ IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 <br>
 
 <a href="https://github.com/Note-Mart/Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Note-Mart&repo=Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Note-Mart&repo=Note-Mart-Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
 <a href="https://github.com/Eros-Adult-Beauty/Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eros-Adult-Beauty&repo=Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ausexticity&repo=Ausexticity-Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
 <!-- ## 偶ㄉ ZeroJudge 解題統計🙂
