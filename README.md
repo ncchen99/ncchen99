@@ -33,8 +33,8 @@ IG [ncchen.foss](https://www.instagram.com/ncchen.foss/)\
 </div>
 <br>
 
-<a href="https://github.com/Note-Mart/Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Note-Mart&repo=Note-Mart-Web&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
+<a href="https://github.com/ncchen99/Tuckin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Tuckin&theme=buefy&border_radius=10%" style="max-width: 100%;margin-bottom: 20px;"/>
 </a>
 
 <a href="https://github.com/Eros-Adult-Beauty/Web">
