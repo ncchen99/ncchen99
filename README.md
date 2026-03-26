@@ -31,22 +31,22 @@
   <a href="https://www.facebook.com/ncchen99/">
     <img src="https://img.shields.io/badge/Facebook-念誠-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;
+  
   <a href="https://www.instagram.com/ncchen.foss/">
     <img src="https://img.shields.io/badge/Instagram-ncchen.foss-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;
+  
   <a href="https://github.com/ncchen99">
     <img src="https://img.shields.io/badge/GitHub-ncchen99-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  **我的馬吉** 🤝 &nbsp;
+  **我的馬吉** 🤝 
   <a href="https://github.com/Vincent550102">
     <img src="https://img.shields.io/badge/@Vincent550102-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
+  
   <a href="https://github.com/yenslife">
     <img src="https://img.shields.io/badge/@yenslife-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -60,11 +60,6 @@
 
 ```yaml
 name: 小瓜呆黏成 (ncchen99)
-hobbies:
-  - 👨‍💻 寫程式
-  - 🏊‍♂ 游泳
-  - 🏓 桌球
-  - 🏋 健身
 social:
   facebook: "念誠"
   instagram: "ncchen.foss"
@@ -146,7 +141,7 @@ best_friends:
   <a href="https://github.com/ncchen99/Campus-Shift-Scheduler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Campus-Shift-Scheduler&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
-  &nbsp;
+  
   <a href="https://github.com/ncchen99/NCKU-NCA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=NCKU-NCA&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
@@ -156,7 +151,7 @@ best_friends:
   <a href="https://github.com/ncchen99/Tuckin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Tuckin&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
-  &nbsp;
+  
   <a href="https://github.com/Eros-Adult-Beauty/Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ausexticity&repo=Ausexticity-Web&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
