@@ -22,8 +22,6 @@
 
 <!-- 社群連結 -->
 <div align="center">
-  <h1>嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  你好，我是小瓜呆黏成 🧒　我喜歡 👨‍💻🏊‍♂🏓🏋
 
   <p></p>
 
