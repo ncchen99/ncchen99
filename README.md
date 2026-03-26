@@ -5,7 +5,7 @@
 <!-- 動態波浪橫幅 -->
 <div align="center">
   <a href="https://github.com/ncchen99">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,18&height=200&section=header&text=ncchen99&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=小瓜呆黏成&descAlignY=62&descAlign=50" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,18&height=200&section=header&text=ncchen99&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=小瓜呆黏成&descAlignY=62&descAlign=50" width="100%"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
   <h1>嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   你好，我是小瓜呆黏成 🧒　我喜歡 👨‍💻🏊‍♂🏓🏋
 
-  <br clear="all"/>
+  <p></p>
 
   <a href="https://www.facebook.com/ncchen99/">
     <img src="https://img.shields.io/badge/Facebook-念誠-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/GitHub-ncchen99-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
- <br clear="all"/>
+ <p></p>
 
   **我的馬吉** 🤝 &nbsp;
   <a href="https://github.com/Vincent550102">
