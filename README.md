@@ -112,8 +112,6 @@ best_friends:
   </picture>
 </div>
 
-> 💡 若要啟用 Snake 動畫，請參考 [Platane/snk](https://github.com/Platane/snk) 設定 GitHub Actions。
-
 ---
 
 <!-- 技術棧 -->
