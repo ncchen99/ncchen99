@@ -8,11 +8,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,18&height=200&section=header&text=ncchen99&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=小瓜呆黏成&descAlignY=62&descAlign=50" width="100%"/>
   </a>
 </div>
----
 
 <!-- 打招呼 + 動態打字 -->
 <div align="center">
-  <h1>嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=D67BFF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B+%E6%88%91%E6%98%AF%E5%B0%8F%E7%93%9C%E5%91%86%E9%BB%8F%E6%88%90;%E6%88%91%E5%96%9C%E6%AD%A1+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%F0%9F%8F%8A%E2%80%8D%E2%99%82+%F0%9F%8F%93+%F0%9F%8F%8B;Welcome+to+my+GitHub+Profile!;Let%27s+build+something+cool+together!" alt="Typing SVG" />
@@ -23,7 +22,7 @@
 
 <!-- 社群連結 -->
 <div align="center">
-
+  <h1>嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   你好，我是小瓜呆黏成 🧒　我喜歡 👨‍💻🏊‍♂🏓🏋
 
   <br/>
