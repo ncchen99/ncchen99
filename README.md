@@ -25,7 +25,7 @@
   <h1>嗨囉! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   你好，我是小瓜呆黏成 🧒　我喜歡 👨‍💻🏊‍♂🏓🏋
 
-  <br/>
+  <br clear="all"/>
 
   <a href="https://www.facebook.com/ncchen99/">
     <img src="https://img.shields.io/badge/Facebook-念誠-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/GitHub-ncchen99-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <br/>
+ <br clear="all"/>
 
   **我的馬吉** 🤝 &nbsp;
   <a href="https://github.com/Vincent550102">
