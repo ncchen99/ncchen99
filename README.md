@@ -1,13 +1,13 @@
+
+
+<!-- Header Banner -->
+[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://github.com/ncchen99)
 <!-- 動態波浪橫幅 -->
 <div align="center">
   <a href="https://github.com/ncchen99">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,17,18&height=200&section=header&text=ncchen99&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=小瓜呆黏成&descAlignY=62&descAlign=50" width="100%"/>
   </a>
 </div>
-
-<!-- Header Banner -->
-[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://github.com/ncchen99)
-
 ---
 
 <!-- 打招呼 + 動態打字 -->
@@ -31,22 +31,22 @@
   <a href="https://www.facebook.com/ncchen99/">
     <img src="https://img.shields.io/badge/Facebook-念誠-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  
+  &nbsp;
   <a href="https://www.instagram.com/ncchen.foss/">
     <img src="https://img.shields.io/badge/Instagram-ncchen.foss-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
+  &nbsp;
   <a href="https://github.com/ncchen99">
     <img src="https://img.shields.io/badge/GitHub-ncchen99-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  **我的馬吉** 🤝 
+  **我的馬吉** 🤝 &nbsp;
   <a href="https://github.com/Vincent550102">
     <img src="https://img.shields.io/badge/@Vincent550102-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  
+  &nbsp;
   <a href="https://github.com/yenslife">
     <img src="https://img.shields.io/badge/@yenslife-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -141,7 +141,7 @@ best_friends:
   <a href="https://github.com/ncchen99/Campus-Shift-Scheduler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Campus-Shift-Scheduler&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
-  
+  &nbsp;
   <a href="https://github.com/ncchen99/NCKU-NCA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=NCKU-NCA&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
@@ -151,7 +151,7 @@ best_friends:
   <a href="https://github.com/ncchen99/Tuckin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncchen99&repo=Tuckin&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
-  
+  &nbsp;
   <a href="https://github.com/Eros-Adult-Beauty/Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ausexticity&repo=Ausexticity-Web&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
