@@ -52,22 +52,6 @@
 
 ---
 
-<!-- 關於我 -->
-## 🙋 關於我
-
-```yaml
-name: 小瓜呆黏成 (ncchen99)
-social:
-  facebook: "念誠"
-  instagram: "ncchen.foss"
-  github: "ncchen99"
-best_friends:
-  - "@Vincent550102"
-  - "@yenslife"
-```
-
----
-
 <!-- GitHub 統計 -->
 ## 📊 我的 GitHub 統計
 
