@@ -144,12 +144,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/Metro-Sense/Metro-Sense">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Metro-Sense&repo=Metro-Sense&theme=tokyonight&border_radius=10&hide_border=true&show_owner=true" />
+  <a href="https://github.com/ncchen99/Metro-Sense">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ncchen99&repo=Metro-Sense&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
   &nbsp;
-  <a href="https://github.com/InkSync/InkSync">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=InkSync&repo=InkSync&theme=tokyonight&border_radius=10&hide_border=true&show_owner=true" />
+  <a href="https://github.com/ncchen99/InkSync">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ncchen99&repo=InkSync&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
 
   <br/><br/>
