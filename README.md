@@ -49,53 +49,6 @@
 
 ---
 
-<!-- GitHub 統計 -->
-## 📊 我的 GitHub 統計
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncchen99&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncchen99&theme=tokyonight" height="180"/>
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncchen99&theme=tokyonight" height="180"/>
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncchen99&theme=tokyonight" height="180"/>
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ncchen99&theme=tokyonight&utcOffset=8" height="180"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ncchen99&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</div>
-
----
-
-<!-- 活動圖 -->
-## 📈 貢獻活動圖
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncchen99&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
-</div>
-
----
-
-<!-- Snake 動畫 -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
----
-
 <!-- 技術棧 -->
 ## 🛠️ 技術棧
 
@@ -158,6 +111,43 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PlayLLM&repo=Taipei-City-Dashboard&theme=tokyonight&border_radius=10&hide_border=true&show_owner=true" />
   </a>
 
+</div>
+
+---
+
+<!-- GitHub 統計 -->
+## 📊 GitHub 統計
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncchen99&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncchen99&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncchen99&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncchen99&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ncchen99&theme=tokyonight&utcOffset=8" height="180"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ncchen99&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncchen99&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ncchen99/ncchen99/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
