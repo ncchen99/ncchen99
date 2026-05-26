@@ -70,8 +70,8 @@
 
 <div align="center">
 
-  <a href="https://github.com/ncchen99/Campus-Shift-Scheduler">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ncchen99&repo=Campus-Shift-Scheduler&theme=tokyonight&border_radius=10&hide_border=true" />
+  <a href="https://github.com/ncchen99/Coffee-Pocket">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ncchen99&repo=Coffee-Pocket&theme=tokyonight&border_radius=10&hide_border=true" />
   </a>
   &nbsp;
   <a href="https://github.com/ncchen99/NCKU-NCA">
