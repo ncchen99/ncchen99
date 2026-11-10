@@ -111,6 +111,10 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PlayLLM&repo=Taipei-City-Dashboard&theme=tokyonight&border_radius=10&hide_border=true&show_owner=true" />
   </a>
 
+  <a href="https://github.com/HT-Hackathon-YTJJ/iRent-iTrust">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HT-Hackathon-YTJJ&repo=iRent-iTrust&theme=tokyonight&border_radius=10&hide_border=true&show_owner=true" />
+  </a>
+
 </div>
 
 ---
