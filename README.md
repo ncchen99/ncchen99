@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-[![Header](https://raw.githubusercontent.com/ncchen99/ncchen99/main/me3.png "Header")](https://github.com/ncchen99)
+<img width="1400" height="350" alt="1794859030509" src="https://github.com/user-attachments/assets/8f1b3305-6b01-4ea3-a5f1-7fc994d729cc" />
 
 <!-- 動態波浪橫幅 -->
 <div align="center">
